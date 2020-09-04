@@ -1,0 +1,23 @@
+* {
+  margin: 0 auto;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  font-family: "Lato", sans-serif;
+  margin-top: 25px;
+}
+
+#bars {
+  margin-top: 50px;
+  display: flex;
+  align-items: baseline;
+}
+
+.bar {
+  background-color: red;
+  height: 0px;
+  width: 100%;
+  margin: 2.5px;
+}
